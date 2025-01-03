@@ -1,0 +1,4 @@
+- name: Run Markdown Lint
+  run: |
+    npm install --no-save remark-cli remark-preset-lint-consistent
+    npx remark . --use remark-preset-lint-consistent --frail
