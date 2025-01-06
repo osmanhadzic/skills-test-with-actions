@@ -4,6 +4,8 @@ _Charting the knowledge of the Internet, just like Galileo charted the stars._
 
 ## Experience
 
+Create PR to merge 
+
 ### GitHub Trainer
 
 Teach all things _Git_, give away all the stickers, ensure world peace.
